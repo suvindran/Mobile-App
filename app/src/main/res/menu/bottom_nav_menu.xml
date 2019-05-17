@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/new_business"
+        android:icon="@drawable/home"
+        android:title="DashBoard" />
+
+    <item
+        android:id="@+id/new_line"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="New Line" />
+
+    <item
+        android:id="@+id/new_branch"
+        android:icon="@drawable/expense"
+        android:title="New Branch" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+
+</menu>

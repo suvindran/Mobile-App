@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/my_loans"
+            android:title="My Loans" />
+        <item
+            android:id="@+id/request_form"
+            android:title="Request Form" />
+        <item
+            android:id="@+id/profile"
+            android:title="profile" />
+        <item
+            android:id="@+id/reports"
+            android:title="Report" />
+        <item
+            android:id="@+id/collections"
+            android:title="Collections" />
+        <item
+            android:id="@+id/new_loans"
+            android:title="New Loan" />
+        <item
+            android:id="@+id/daily"
+            android:title="Daily" />
+        <item
+            android:id="@+id/new_line"
+            android:title="New Line" />
+        <item
+            android:id="@+id/top_up"
+            android:title="Top up" />
+        <item
+            android:id="@+id/new_branch"
+            android:title="New Branch" />
+        <item
+            android:id="@+id/add_new_branch"
+            android:title="Add new branch" />
+        <item
+            android:id="@+id/expense"
+            android:title="Expense" />
+        <item
+            android:id="@+id/logout"
+            android:title="Logout" />
+    </group>
+
+</menu>
